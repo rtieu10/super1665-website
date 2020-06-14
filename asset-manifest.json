@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/super1665-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/super1665-website/static/js/main.4f23a84e.chunk.js",
+    "main.js.map": "/super1665-website/static/js/main.4f23a84e.chunk.js.map",
+    "runtime-main.js": "/super1665-website/static/js/runtime-main.20a77ad5.js",
+    "runtime-main.js.map": "/super1665-website/static/js/runtime-main.20a77ad5.js.map",
+    "static/js/2.595b3f91.chunk.js": "/super1665-website/static/js/2.595b3f91.chunk.js",
+    "static/js/2.595b3f91.chunk.js.map": "/super1665-website/static/js/2.595b3f91.chunk.js.map",
+    "index.html": "/super1665-website/index.html",
+    "precache-manifest.30adb405ee74347a997df16304dcec6c.js": "/super1665-website/precache-manifest.30adb405ee74347a997df16304dcec6c.js",
+    "service-worker.js": "/super1665-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/super1665-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.595b3f91.chunk.js.LICENSE.txt": "/super1665-website/static/js/2.595b3f91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/super1665-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20a77ad5.js",
+    "static/js/2.595b3f91.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4f23a84e.chunk.js"
+  ]
+}
